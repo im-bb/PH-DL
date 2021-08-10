@@ -12,6 +12,7 @@
 ```
 pip install youtube-dl
 ```
+---
 
 ## 𝐇𝐎𝐖 𝐓𝐎 𝐔𝐒𝐄
 
@@ -21,5 +22,6 @@ cd Pornhub-Video-Downloader
 pip install youtube-dl 
 python ph.py
 ```
+---
 
 ### 𝐍𝐎𝐓𝐄
