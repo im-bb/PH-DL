@@ -24,4 +24,12 @@ python ph.py
 ```
 ---
 
-### 𝐍𝐎𝐓𝐄
+#### 𝐍𝐎𝐓𝐄
+```
+𝗟𝗘𝗚𝗔𝗟 𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥
+
+I won't be liable for any loss caused by MISUSE of this Script.
+This is Indended to be used only for Educational Purposes.
+
+```
+---
