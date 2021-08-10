@@ -32,4 +32,10 @@ I won't be liable for any loss caused by MISUSE of this Script.
 This is Indended to be used only for Educational Purposes.
 
 ```
----
+<details>
+  <summary><b>𝐌𝐎𝐑𝐄</b></summary>
+<br/>
+𝗜𝗠 𝗨𝗦𝗜𝗡𝗚 𝗧𝗘𝗥𝗠𝗨𝗫 𝗛𝗘𝗥𝗘 𝗦𝗢 𝗜𝗠 𝗚𝗢𝗡𝗡𝗔 𝗚𝗜𝗩𝗘 𝗬𝗢𝗨 𝗦𝗢𝗠𝗘 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦 𝗜𝗙 𝗬𝗢𝗨 𝗔𝗥𝗘 𝗔 𝗕𝗘𝗚𝗜𝗡𝗡𝗘𝗥
+ 
+*DOWNLOAD [𝗟𝗲𝗮𝗿𝗻 𝗧𝗲𝗿𝗺𝘂𝘅](https://play.google.com/store/apps/details?id=com.ican.dotech.terminalcommandprompt) 𝗙𝗥𝗢𝗠 𝗣𝗟𝗔𝗬𝗦𝗧𝗢𝗥𝗘
+
