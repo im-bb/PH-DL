@@ -21,7 +21,7 @@ pip install youtube-dl
 git clone https://github.com/lav13enrose/Pornhub-Video-Downloader.git
 cd Pornhub-Video-Downloader
 pip install youtube-dl 
-python ph.py
+python imbb.py
 ```
 ---
 
