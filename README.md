@@ -18,7 +18,7 @@ pip install youtube-dl
 ## 𝐇𝐎𝐖 𝐓𝐎 𝐔𝐒𝐄
 
 ```
-git clone https://github.com/lav13enrose/Pornhub-Video-Downloader.git
+git clone https://github.com/im-bb/Pornhub-Video-Downloader.git
 cd Pornhub-Video-Downloader
 pip install youtube-dl 
 python imbb.py
