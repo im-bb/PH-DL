@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import youtube_dl
 def main():
-    print("[PH] Pornhub Simple Downloader | github.com/im-bb") #please dont delete this
+    print("[PH] Pornhub Simple Downloader | github.com/im-bb") #XD
     print("[!] Auto Loop Script, Use Control + C to Stop")
     directory = input("[*] Folder Directory for Saving : ")
     while True:
