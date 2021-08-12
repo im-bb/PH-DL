@@ -6,7 +6,7 @@ def main():
     directory = input("[*] Folder Directory for Saving : ")
     while True:
         url = input("[*] Pornhub Videos Url : ")
-        dire = directory+'/handpicked/%(title)s.%(ext)s'
+        dire = directory+'/phdl/%(title)s.%(ext)s'
         ydl_opts = {
             'format': 'best',
             'outtmpl': dire,
